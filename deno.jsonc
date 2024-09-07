@@ -1,0 +1,10 @@
+{
+  "lock": false,
+  "tasks": {
+    "dev": "deno run --allow-net --allow-read --allow-env --watch main.tsx --dev"
+  },
+  "imports": {
+    "blog": "https://raw.githubusercontent.com/willpuckett/deno_blog/675c88c78e7548455f816c17ce11a009fd551e58/blog.tsx"
+  },
+  "fmt": { "lineWidth": 100, "proseWrap": "preserve" }
+}
