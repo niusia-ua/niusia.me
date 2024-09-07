@@ -11,7 +11,7 @@ blog({
   links: [
     { title: "Email", url: "mailto:nazarantoniuk18@gmail.com", target: "_blank" },
     { title: "GitHub", url: "https://github.com/niusia-ua", target: "_blank" },
-    { title: "LinkedIn", url: "https://linkedin.com/in/nazar-antoniuk", target: "_blank" },
+    { title: "LinkedIn", url: "https://linkedin.com/in/niusia", target: "_blank" },
     {
       title: "Telegram",
       url: "https://t.me/niusia_ua",
