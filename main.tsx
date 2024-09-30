@@ -3,7 +3,12 @@ import blog, { h } from "blog";
 
 blog({
   title: "Niusia's Website",
-  description: "Rust Software Developer from Ukraine 🇺🇦",
+  description: `
+    Hi there! 👋
+    I'm Nazar Antoniuk, a software developer from Kharkiv, Ukraine. 🇺🇦
+    I specialize in Rust programming, while also working with other languages and technologies.
+    It's a place, where I will likely share content related to my work experience. 🧑‍💻
+  `,
   author: "Nazar Antoniuk",
   avatar: "./avatar.jpg",
   lang: "en",
